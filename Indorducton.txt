@@ -1,0 +1,5 @@
+
+
+1. javaScript improve the user experience of the web page by converting it from a static page into an interactive one.
+2. javaScript add behaviour to web page.
+

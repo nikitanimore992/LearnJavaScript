@@ -1,5 +1,34 @@
 
 
-1. javaScript improve the user experience of the web page by converting it from a static page into an interactive one.
-2. javaScript add behaviour to web page.
+    Indroduction
+----------------------------------------------------------------------------------
+                                                                                 -
+            1. javaScript improve the user experience of the web page            -
+               by converting it from a static page into an interactive           -
+               one.                                                              -
+            2. javaScript add behaviour to web page.                             -
+                                                                                 -
+                                                                                 -
+            -------------------------------------------------------              -
+            for run currunt file of javaScript you can easialy write             -
+            none filename with extension                                         -
+                                                                                 -
+              {exa. node first.js}                                               -
+                                                                                 -
+            agr apko check karna hai apke system me node js ka konsa             -
+            version abhi chal raha hai you simple write.                         -
+                                                                                 -
+              {node -v (v for version)}                                          -
+                                                                                 -
+            -------------------------------------------------------              -
+            if i want to print something in consol window i use                  -
+                                                                                 -
+              {consol.log(variable name) }                                       -
+                                                                                 -
+            -------------------------------------------------------              -
+                                                                                 -
+                                                                                 -
+----------------------------------------------------------------------------------
+
+
 

@@ -9,5 +9,3 @@ console.log(myName);
 /*
 first letter must be letter or underscore(_)
 */
-
-

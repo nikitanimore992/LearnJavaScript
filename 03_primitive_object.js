@@ -1,10 +1,11 @@
 
 
 
-// nn bb ss u
+//  rule =  nn bb ss u
 // null , number , bite , BigInt , String , Symbol , Undefined
 
 // exa. 
+// primitive data type 
 
 let a = null;
 let b = 123;

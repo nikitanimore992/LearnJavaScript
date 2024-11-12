@@ -49,6 +49,8 @@ const disc = {
 }
 // console.log(disc.appreciate)
 console.log(disc['appreciate'])
+console.log(disc['Novel'])
+
 
 
 // to way to acces the object item and value.

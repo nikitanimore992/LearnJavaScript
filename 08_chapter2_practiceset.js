@@ -50,6 +50,14 @@ if(num%2==0 && num%3==0){
 }
 
 
+let n = prompt("age is :");
+n = Number.parseInt(a);
+if(n%2==0 && n%3==0){
+    console.log("number is divisible")
+}else{
+    console.log("number is not divisible")
+}
+
 // Question 4  = wirte a program  "you can drive " and "you can not drive " base on age 10 using turney operator 
 
 

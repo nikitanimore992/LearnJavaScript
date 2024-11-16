@@ -60,7 +60,6 @@ if(n%2==0 && n%3==0){
 
 // Question 4  = wirte a program  "you can drive " and "you can not drive " base on age 10 using turney operator 
 
-
 let ag = prompt("age is :");
 age = Number.parseInt(ag);
 console.log(age>10? "you can drive" : "you can not drive")

@@ -63,3 +63,5 @@ if(n%2==0 && n%3==0){
 let ag = prompt("age is :");
 age = Number.parseInt(ag);
 console.log(age>10? "you can drive" : "you can not drive")
+
+

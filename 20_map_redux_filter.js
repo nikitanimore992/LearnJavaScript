@@ -18,3 +18,16 @@ console.log(a) // naya array print ho gaya
 // value ke sath index value bhi print kar sakte hai 
 // complete aray bhi print kar sakte hai
 
+
+// array filter method
+
+let aar1 = [10,20,30,0,5,6]
+
+let a2 =aar1.filter((a)=>{
+        return a<10
+})
+console.log(a);
+
+// in method me me array ki ahi value print hoti hai jo
+//  true ho lekin orignal arrya kabhi bhi change nahi hota
+

@@ -31,3 +31,23 @@ console.log(a);
 // in method me me array ki ahi value print hoti hai jo
 //  true ho lekin orignal arrya kabhi bhi change nahi hota
 
+
+// array reduce  method
+// reduce ek value return karta hai 
+// according to function and parametors
+
+// first way to use reduce method 
+let arr3 = [10,20,30,1,3]
+
+let newarr1 = arr3.reduce((h1,h2)=>{
+        return h1+h2
+})
+console.log(newarr1)
+
+
+// second way to use reduce method
+let red = (h1,h2)=>{
+    return h1+h2
+}
+let newar=arr3.reduce(red)
+console.log(newar)

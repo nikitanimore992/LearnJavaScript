@@ -11,6 +11,8 @@ a=Number.parseInt(a);
 arr.push(a)
 console.log(arr)
 
+
+
 // problem number 2 : Keep adding numbers to the array in question-1 until 0 is added the array.
 
 let arr1 = [1,2,3,4,5]
@@ -24,6 +26,7 @@ do{
 console.log(arr1);
 
 
+
 // problem number 3. filter for numbers divisible by 10 from a given array.
 
 let arr2 = [10,2,30,40,5 ,30,7,27]
@@ -31,3 +34,16 @@ let n  = arr2.filter((num)=>{
     return num%10==0;
 })
 console.log(n);
+
+
+
+// problem number 4. Create an array of square of given numbers.
+
+let arr3 = [10,2,30,40,5 ,30,7,27]
+let m  = arr3.map((n)=>{
+    return n*n
+})
+console.log(m);
+
+
+

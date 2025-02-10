@@ -22,3 +22,12 @@ do{
     
 }while(b!=0)
 console.log(arr1);
+
+
+// problem number 3. filter for numbers divisible by 10 from a given array.
+
+let arr2 = [10,2,30,40,5 ,30,7,27]
+let n  = arr2.filter((num)=>{
+    return num%10==0;
+})
+console.log(n);

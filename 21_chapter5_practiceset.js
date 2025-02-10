@@ -47,3 +47,13 @@ console.log(m);
 
 
 
+
+/*problem number 5. Use reduce to calculate factorial of a given number from an array of
+first n natural numbers (n being the number whose factorial needs to be calculated).
+*/
+
+let arr4 = [1,2,3,4,5,6,7,8]
+let numb  = arr4.reduce((x1,x2)=>{
+    return x1*x2
+})
+console.log(numb);

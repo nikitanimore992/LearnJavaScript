@@ -83,3 +83,12 @@
 <h2>Ternary Operator</h2>
 <p>The ternary operator is a shorthand way to write an if-else statement in JavaScript. It takes the form of condition ? value1 : value2, where condition is a boolean expression, and value1 and value2 are expressions of any type. If condition is true, the ternary operator returns value1; if condition is false, it returns value2.</p>
 
+# Loop
+
+<h2>For Loop</h2>
+<p>For loops are a common control flow structure in programming that allows you to repeat a block of code a specific number of times. In JavaScript, there are three types of for loops: the standard for loop, the for-in loop, and the for-of loop.</p>
+<h2>For-of loop</h2>
+<p>The for-of loop is used to iterate over the values of an iterable object, such as an array or a string. It has the following syntax</p>
+<h2>While Loop</h2>
+<p>While loops are a control flow structure in programming that allow you to repeat a block of code while a certain condition is true. In JavaScript, the syntax for a while loop is</p>
+

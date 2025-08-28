@@ -13,7 +13,7 @@
 <p>It was created to ensure that different documents on JavaScript are talking about the same language.</p>
 <h3>Introduction</h3>
 <P>JavaScript is a lightweight, OOP language. It is a scripting language for web pages.It is used to add interactivity and dynamic effects to web pages.Nowadays used in server-side development.</P>
-<br><hr><br>
+<hr>
 <h3>Variables</h3>
 <p>In JavaScript, variables are used to store data.hey allow you to store, retrieve, and manipulate data in your programs. three ways you can declare a valu</p>
 <br>
@@ -22,7 +22,7 @@
 <li>let</li>
 <li>const</li>
 </ol>
-<br><hr><br>
+<hr>
 
 <h3>Data Type in JavaScript</h3>
 <p>there are several data types that you can use to store different types of data.</p>
@@ -33,11 +33,11 @@
 <li>Arrays (e.g. [1, 2, 3])</li>
 <li>Objects (e.g. { name: "John", age: 30 })</li>
 </ul>
-<br><hr><br>
+<hr>
 
 <h3>Variable Naming Rules</h3>
 <p>Variable names can only contain letters, digits, underscores, and dollar signs.Variable names cannot start with a digit.Variable names are case-sensitive.</p>
-<br><hr><br>
+<hr>
  
  <h3>Primitives and Objects</h3>
  <p>here are two main types of data: primitives and objects.</p>
@@ -57,5 +57,5 @@
 <br>
  <h3>-->Objects</h3>
     <p>Objects are more complex data types in JavaScript and are used to represent real-world objects or abstract concepts. They are composed of key-value pairs, where the keys are strings and the values can be any data type (including primitives and other objects).<br>Objects are mutable, which means that they can be changed after they are created<br>let obj = { name: "John", age: 30 };<br>obj.age = 31; // the age property of obj is now 31</p>
-
+<hr>
 

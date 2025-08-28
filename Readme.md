@@ -92,3 +92,22 @@
 <h2>While Loop</h2>
 <p>While loops are a control flow structure in programming that allow you to repeat a block of code while a certain condition is true. In JavaScript, the syntax for a while loop is</p>
 
+# Functions
+<p>JavaScript functions are blocks of code that can be defined and executed whenever needed. They are a crucial part of JavaScript programming and are used to perform specific tasks or actions.
+
+Functions are often referred to as "first-class citizens" in JavaScript because they can be treated like any other value, such as a number or a string. This means that they can be assigned to variables, passed as arguments to other functions, and returned as values from functions.
+
+Here's the basic syntax for defining a function in JavaScript:</p
+<img src="/img/func1.png">
+<p>The functionName is a unique identifier for the function, and the parameters are the variables that are passed to the function when it is called. These parameters act as placeholders for the actual values that are passed to the function when it is executed.<br>Here's an example of a simple function that takes a single parameter and returns the square of that number:</p>
+<img src="/img/func2.png">
+<p>To call this function, you would simply use the function name followed by the arguments in parentheses:</p>
+<img src="/img/func3.png">
+<p>Functions can also have multiple parameters, like this:</p>
+<img src="/img/func4.png">
+<p>In this case, the add function takes two parameters, x and y, and returns their sum.<br>JavaScript also has a special type of function called an "arrow function," which uses a shorter syntax. Here's the same square function defined using an arrow function:</p>
+<img src="/img/func5.png">
+<p>Arrow functions are often used when you want to create a small, one-line function that doesn't require a separate function keyword.<br>Functions can be defined inside other functions, which is known as "nesting." This is useful for creating smaller, reusable blocks of code that can be called from within the larger function.</p>
+<img src="/img/func6.png">
+<p>In this example, the innerFunction is defined inside the outerFunction and can only be called from within that function.</p>
+

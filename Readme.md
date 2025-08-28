@@ -13,7 +13,7 @@
 <p>It was created to ensure that different documents on JavaScript are talking about the same language.</p>
 <h2>Introduction</h2>
 <P>JavaScript is a lightweight, OOP language. It is a scripting language for web pages.It is used to add interactivity and dynamic effects to web pages.Nowadays used in server-side development.</P>
-<hr>
+
 <h2>Variables</h2>
 <p>In JavaScript, variables are used to store data.hey allow you to store, retrieve, and manipulate data in your programs. three ways you can declare a valu</p>
 <br>
@@ -22,7 +22,6 @@
 <li>let</li>
 <li>const</li>
 </ol>
-<hr>
 
 <h2>Data Type in JavaScript</h2>
 <p>there are several data types that you can use to store different types of data.</p>
@@ -33,11 +32,9 @@
 <li>Arrays (e.g. [1, 2, 3])</li>
 <li>Objects (e.g. { name: "John", age: 30 })</li>
 </ul>
-<hr>
 
 <h2>Variable Naming Rules</h2>
 <p>Variable names can only contain letters, digits, underscores, and dollar signs.Variable names cannot start with a digit.Variable names are case-sensitive.</p>
-<hr>
  
  <h2>Primitives and Objects</h2>
  <p>here are two main types of data: primitives and objects.</p>
@@ -67,6 +64,6 @@
     let obj = { name: "John", age: 30 };
     <br>
     obj.age = 31; // the age property of obj is now 31</p>
-<hr>
+
 <h2><h2>
 

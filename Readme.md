@@ -54,7 +54,7 @@
     <br>
     Objects are mutable, which means that they can be changed after they are created</p>
 
-<h2>Operators and Expressions<h2>
+# Operators and Expressions 
 <p>Operators in JavaScript are symbols that perform specific operations on one or more operands (values or variables). For example, the addition operator (+) adds two operands together and the assignment operator (=) assigns a value to a variable.</p>
 <ul>
     <li>Arithmetic operators (e.g. +, -, *, /, %)</li>

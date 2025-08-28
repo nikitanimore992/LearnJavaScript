@@ -72,3 +72,14 @@
 <p>The let keyword was introduced in ECMAScript 6 (also known as ES6) and is used to declare variables that can be reassigned later. let variables are block-scoped, which means that they are only accessible within the block of code in which they are declared. This makes them more predictable and easier to reason about than var variables.</p>
 <h2>Conts</h2>
 <p>The const keyword was also introduced in ES6 and is used to declare variables that cannot be reassigned later. const variables are also block-scoped and behave similarly to let variables in that respect. However, the main difference is that const variables must be initialized with a value when they are declared and cannot be reassigned later.</p>
+
+# conditional
+<h2>If else</h2>
+<p>he "if" statement in JavaScript is used to execute a block of code if a certain condition is met. The "else" clause is used to execute a block of code if the condition is not met.</p>
+<h2>If else ladder | Nested If</h2>
+<p>The "if-else ladder" is a control structure in JavaScript that allows you to execute a different block of code depending on multiple conditions. It is called a ladder because it consists of multiple "if" and "else" statements arranged in a ladder-like fashion.</p>
+<h2>Switch Case</h2>
+<p>The "switch" statement in JavaScript is another control structure that allows you to execute a different block of code depending on a specific value. It is often used as an alternative to the "if-else ladder" when you have multiple conditions to check against a single value.</p>
+<h2>Ternary Operator</h2>
+<p>The ternary operator is a shorthand way to write an if-else statement in JavaScript. It takes the form of condition ? value1 : value2, where condition is a boolean expression, and value1 and value2 are expressions of any type. If condition is true, the ternary operator returns value1; if condition is false, it returns value2.</p>
+

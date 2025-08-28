@@ -6,15 +6,15 @@
 <p>Beginning in 1997, JavaScript has evolved into many versions.</p>
 <p>ECMAScript is a standard on which JavaScript is based!<p>
 
-<h3>ECMAScript</h3>
+<h2>ECMAScript</h2>
 <P>ECMAScript1 or ES1 was first released in 1997.</P>
 <P>ECMAScript 2015 also known as ES6 was released in 2015 and a major revision to JavaScript was made.</P>
 <P>The latest version of JavaScript will be ECMaScript2022 (ES13) in 2022.</P>
 <p>It was created to ensure that different documents on JavaScript are talking about the same language.</p>
-<h3>Introduction</h3>
+<h2>Introduction</h2>
 <P>JavaScript is a lightweight, OOP language. It is a scripting language for web pages.It is used to add interactivity and dynamic effects to web pages.Nowadays used in server-side development.</P>
 <hr>
-<h3>Variables</h3>
+<h2>Variables</h2>
 <p>In JavaScript, variables are used to store data.hey allow you to store, retrieve, and manipulate data in your programs. three ways you can declare a valu</p>
 <br>
 <ol>
@@ -24,7 +24,7 @@
 </ol>
 <hr>
 
-<h3>Data Type in JavaScript</h3>
+<h2>Data Type in JavaScript</h2>
 <p>there are several data types that you can use to store different types of data.</p>
 <ul>
 <li>Numbers (e.g. 10, 3.14)</li>
@@ -35,13 +35,13 @@
 </ul>
 <hr>
 
-<h3>Variable Naming Rules</h3>
+<h2>Variable Naming Rules</h2>
 <p>Variable names can only contain letters, digits, underscores, and dollar signs.Variable names cannot start with a digit.Variable names are case-sensitive.</p>
 <hr>
  
- <h3>Primitives and Objects</h3>
+ <h2>Primitives and Objects</h2>
  <p>here are two main types of data: primitives and objects.</p>
- <h3>Primitives--></h3>
+ <h2>Primitives--></h2>
  <ul>
     <li>Numbers (e.g. 10, 3.14)</li>
     <li>Strings (e.g. "hello", 'world')</li>
@@ -57,7 +57,7 @@
     x=20; // now x value is 20</p>
 
 <br>
- <h3>-->Objects</h3>
+ <h2>-->Objects</h2>
     <p>Objects are more complex data types in JavaScript and are used to represent real-world objects or abstract concepts. They are composed of key-value pairs, where the keys are strings and the values can be any data type (including primitives and other objects).
     <br>
     Objects are mutable, which means that they can be changed after they are created
@@ -68,4 +68,5 @@
     <br>
     obj.age = 31; // the age property of obj is now 31</p>
 <hr>
+<h2><h2>
 

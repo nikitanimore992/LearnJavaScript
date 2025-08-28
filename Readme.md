@@ -47,23 +47,12 @@
     <li>Undefined (a special value that represents an uninitialized variable)</li>
 </ul>
 <p>Primitives are immutable, which means that once they are created, they cannot be changed</p>
-<p>For Example--->
-<br>
-    let x= 10;
-    <br>
-    x=20; // now x value is 20</p>
 
 <br>
  <h2>-->Objects</h2>
     <p>Objects are more complex data types in JavaScript and are used to represent real-world objects or abstract concepts. They are composed of key-value pairs, where the keys are strings and the values can be any data type (including primitives and other objects).
     <br>
-    Objects are mutable, which means that they can be changed after they are created
-    <br><br>
-    For Example--->
-    <br>
-    let obj = { name: "John", age: 30 };
-    <br>
-    obj.age = 31; // the age property of obj is now 31</p>
+    Objects are mutable, which means that they can be changed after they are created</p>
 
 <h2><h2>
 

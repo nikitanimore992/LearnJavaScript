@@ -35,4 +35,8 @@
 </ul>
 <br><hr><br>
 
+<h3>Variable Naming Rules</h3>
+<p>Variable names can only contain letters, digits, underscores, and dollar signs.Variable names cannot start with a digit.Variable names are case-sensitive.</p>
+
+
  

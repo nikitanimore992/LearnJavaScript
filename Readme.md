@@ -132,3 +132,32 @@ slice - This method is used to extract a portion of a string.<br>
 replace - This method is used to replace a specific character or substring in a string.<br>
 toUpperCase and toLowerCase - These methods are used to convert a string to uppercase or lowercase letters.
 </p>
+
+# Array and methods
+<p>Array is a collection of elements. In this blog post, we will explore the basics of JavaScript arrays and the various array methods that can be used to manipulate them.<br>
+Some of the most commonly used array methods are:</p>
+<ul>
+<li>length </li>
+<li>push  </li>
+<li>pop  </li>
+<li>shift  </li>
+<li>unshift  </li>
+<li>slice  </li>
+<li>Splice</li>
+</ul>
+
+<p>
+ength - This method returns the number of elements in an array. 
+<br>
+push - This method is used to add an element to the end of an array. 
+<br>
+pop - This method is used to remove the last element of an array.
+<br>
+shift - This method is used to remove the first element of an array. 
+<br>
+unshift - This method is used to add an element to the beginning of an array.
+<br>
+slice - This method is used to extract a portion of an array.
+<br>
+splice - This method is used to add or remove elements from an array. 
+</p>

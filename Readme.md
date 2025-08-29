@@ -115,7 +115,7 @@ Here's the basic syntax for defining a function in JavaScript:</p
 
 <p>A string in JavaScript is a sequence of characters enclosed in either single or double quotes. For example.<br>"Hello World" , 
 'Hello World'<br>JavaScript provides a number of built-in methods for manipulating strings. Some of the most commonly used string methods are: </p>
-<ul>
+<ol>
     <li>length </li>
     <li>concat </li>
     <li>indexOf </li>
@@ -123,7 +123,7 @@ Here's the basic syntax for defining a function in JavaScript:</p
     <li>replace </li>
     <li>toUpperCase </li>
     <li>toLowerCase </li>
-</ul>
+</ol>
 <p>length - This method returns the number of characters in a string.
 <br>
 concat - This method is used to concatenate (combine) two or more strings.<br>
@@ -136,7 +136,7 @@ toUpperCase and toLowerCase - These methods are used to convert a string to uppe
 # Array and methods
 <p>Array is a collection of elements. In this blog post, we will explore the basics of JavaScript arrays and the various array methods that can be used to manipulate them.<br>
 Some of the most commonly used array methods are:</p>
-<ul>
+<ol>
 <li>length </li>
 <li>push  </li>
 <li>pop  </li>
@@ -144,7 +144,7 @@ Some of the most commonly used array methods are:</p>
 <li>unshift  </li>
 <li>slice  </li>
 <li>Splice</li>
-</ul>
+</ol>
 
 <p>
 ength - This method returns the number of elements in an array. 

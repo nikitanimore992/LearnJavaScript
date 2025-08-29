@@ -111,3 +111,24 @@ Here's the basic syntax for defining a function in JavaScript:</p
 <img src="/img/func6.png">
 <p>In this example, the innerFunction is defined inside the outerFunction and can only be called from within that function.</p>
 
+# Strings
+
+<p>A string in JavaScript is a sequence of characters enclosed in either single or double quotes. For example.<br>"Hello World" , 
+'Hello World'<br>JavaScript provides a number of built-in methods for manipulating strings. Some of the most commonly used string methods are: </p>
+<ul>
+    <li>length </li>
+    <li>concat </li>
+    <li>indexOf </li>
+    <li>slice </li>
+    <li>replace </li>
+    <li>toUpperCase </li>
+    <li>toLowerCase </li>
+</ul>
+<p>length - This method returns the number of characters in a string.
+<br>
+concat - This method is used to concatenate (combine) two or more strings.<br>
+indexOf - This method is used to find the index of a specific character or substring in a string.<br>
+slice - This method is used to extract a portion of a string.<br>
+replace - This method is used to replace a specific character or substring in a string.<br>
+toUpperCase and toLowerCase - These methods are used to convert a string to uppercase or lowercase letters.
+</p>

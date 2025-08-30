@@ -165,12 +165,16 @@ splice - This method is used to add or remove elements from an array.
 
 # Loops with Arrays
 
-One of the most important data structures in JavaScript is the array, which is a collection of elements. When working with arrays, it is often necessary to iterate through each element in the array, which is where loops come in. In this blog post, we will explore how to use loops with arrays in JavaScript.
+<p>One of the most important data structures in JavaScript is the array, which is a collection of elements. When working with arrays, it is often necessary to iterate through each element in the array, which is where loops come in. In this blog post, we will explore how to use loops with arrays in JavaScript.
 
-JavaScript provides several ways to iterate through an array, including the for loop, forEach method, and for...of loop.
+JavaScript provides several ways to iterate through an array, including the for loop, forEach method, and for...of loop.</p>
 
 <ul>
 <li>for loop - This is the most basic way to iterate through an array. The for loop uses a counter variable that is incremented on each iteration. </li>
 <li>forEach method - This method is a more concise way to iterate through an array. The forEach method takes a callback function as its argument, which is called on each element in the array</li>
 <li>for...of loop - This is a more recent addition to JavaScript, and it is the most concise way to iterate through an array. It allows you to iterate through the elements of an array without having to access the index, and it works with any iterable object, not just arrays</li>
 </ul>
+
+# Map, Filter and Reduce
+
+<p>array, which is a collection of elements. When working with arrays, it is often necessary to manipulate the elements in various ways, which is where the built-in methods map, filter, and reduce come in. In this blog post, we will explore how to use these methods to manipulate arrays in JavaScript.</p>

@@ -181,3 +181,6 @@ JavaScript provides several ways to iterate through an array, including the for 
 
 <p>Map - The map method is used to create a new array with the result of a callback function called on each element in the original array. The callback function takes one argument, the current element, and returns the new value for that element.</p>
 <img src="/img/map.png">
+
+<p>Filter - The filter method is used to filter an array based on a certain condition. The filter method takes a callback function as its argument, which is called on each element in the array. If the function returns true, the element is included in the new filtered array.</p>
+<img src="/img/filter.png.png">

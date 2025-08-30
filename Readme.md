@@ -183,7 +183,7 @@ JavaScript provides several ways to iterate through an array, including the for 
 <img src="/img/map.png">
 
 <p>Filter - The filter method is used to filter an array based on a certain condition. The filter method takes a callback function as its argument, which is called on each element in the array. If the function returns true, the element is included in the new filtered array.</p>
-<img src="/img/filter.png.png">
+<img src="/img/filter.png">
 
 <p>Reduce - The reduce method is used to reduce an array to a single value. The reduce method takes a callback function as its argument, which is called on each element in the array. The callback function takes two arguments, the accumulator and the current element, and returns the new value for the accumulator.</p>
 <img src="/img/reduce.png">

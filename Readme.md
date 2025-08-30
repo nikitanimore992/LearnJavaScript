@@ -178,3 +178,6 @@ JavaScript provides several ways to iterate through an array, including the for 
 # Map, Filter and Reduce
 
 <p>array, which is a collection of elements. When working with arrays, it is often necessary to manipulate the elements in various ways, which is where the built-in methods map, filter, and reduce come in. In this blog post, we will explore how to use these methods to manipulate arrays in JavaScript.</p>
+
+<p>Map - The map method is used to create a new array with the result of a callback function called on each element in the original array. The callback function takes one argument, the current element, and returns the new value for that element.</p>
+<img src="/img/map.png">

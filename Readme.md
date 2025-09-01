@@ -196,6 +196,11 @@ JavaScript provides several ways to iterate through an array, including the for 
 
 One of the most commonly used functions in the Math object is the Math.random() function, which generates a random number between 0 (inclusive) and 1 (exclusive). This function can be used to generate random numbers for various purposes such as games, simulations, and other applications.</p>
 
+# Number
+
+<p>The JavaScript Number object is a built-in object that provides a number of properties and methods for working with numeric values. The Number object can be used to convert a value to a number, perform mathematical operations, and format numbers for display.
+
+One of the most commonly used methods of the Number object is the Number() function, which can be used to convert a value to a number</p>
 
 
 

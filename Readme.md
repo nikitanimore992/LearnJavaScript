@@ -202,6 +202,11 @@ One of the most commonly used functions in the Math object is the Math.random() 
 
 One of the most commonly used methods of the Number object is the Number() function, which can be used to convert a value to a number</p>
 
+# Boolean
+<p>The JavaScript Boolean object is a built-in object that provides a way to work with Boolean (true/false) values in your scripts. The Boolean object can be used to create Boolean values and perform logical operations, such as and, or, and not.
+
+A boolean value can be created by using the Boolean() function or by assigning a value of true or false to a variable.</p>
+
 
 
 

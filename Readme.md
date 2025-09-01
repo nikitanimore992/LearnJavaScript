@@ -191,7 +191,10 @@ JavaScript provides several ways to iterate through an array, including the for 
 # Date
 <p>JavaScript's Date object allows you to work with dates and times in your scripts. It can be used to get the current date and time, or to manipulate and format dates and times in various ways.Creating a new Date object is simple. You can either create a new date object with the current date and time by calling new Date() with no arguments, or you can create a date object with a specific date and time by passing in a string or numerical values.</p>
 
+# Math 
+<p>The JavaScript Math object is a built-in object that provides a variety of mathematical functions and constants. It can be used to perform mathematical operations such as trigonometry, logarithms, and random number generation.
 
+One of the most commonly used functions in the Math object is the Math.random() function, which generates a random number between 0 (inclusive) and 1 (exclusive). This function can be used to generate random numbers for various purposes such as games, simulations, and other applications.</p>
 
 
 

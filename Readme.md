@@ -207,6 +207,13 @@ One of the most commonly used methods of the Number object is the Number() funct
 
 A boolean value can be created by using the Boolean() function or by assigning a value of true or false to a variable.</p>
 
+# Window Object
+<p>The JavaScript window object represents the current browser window or tab that is open in a web browser. It is a global object that provides access to various properties and methods related to the browser window.
+
+One of the most commonly used properties of the window object is the document property, which represents the current web page. This property can be used to access the HTML elements on a page, as well as manipulate them. he window object also provides several methods for displaying dialog boxes, such as alert(), confirm(), and prompt(). These methods can be used to display messages to the user and receive input from the user. There are many other properties and methods provided by the window object, such as setTimeout() and setInterval() for scheduling tasks, open() and close() for opening and closing new windows, and scrollTo() for scrolling the window to a specific position.
+
+It's important to note that the window object is also the parent object of the document object and history object.</p>
+
 
 
 

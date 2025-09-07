@@ -59,3 +59,7 @@ Num = Number.parseInt(Num)
 if(Num>4){
     location.href="https://google.com"
 }
+
+// practice Q5
+let clr = prompt("Enter the page background color")
+document.body.style.background=clr

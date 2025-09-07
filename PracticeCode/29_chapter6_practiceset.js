@@ -50,3 +50,12 @@ if(canDrivee(ag)){
 }
 runAgain = confirm("Do you want to re-check age again")
 }
+
+// practice Q4
+
+let Num = prompt("Enter a number")
+Num = Number.parseInt(Num)
+
+if(Num>4){
+    location.href="https://google.com"
+}

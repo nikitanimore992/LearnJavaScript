@@ -7,7 +7,6 @@ age = Number.parseInt(age)
 const canDrive = (age)=>{
     return age>=18?true:false
 }
-
 // use our function 
  if(canDrive(age)){
     alert("yes you can drive")
@@ -15,5 +14,20 @@ const canDrive = (age)=>{
     alert("you cannot drive")
  }
 
- 
+
+//  practice Q2
+    let runAgain = true;
+    const canDriv = (a)=>{
+        return a>=18?true:false
+    }
+    while(runAgain){
+        let a = prompt("Enter your age = ")
+        a = Number.parseInt(a);
+    if(canDriv(a)){
+        alert("yes! , your can drive")
+    }else{
+        alert("No, you cannot drive")
+    }
+    runAgain = confirm("Do you want to re-check age again")
+}
 

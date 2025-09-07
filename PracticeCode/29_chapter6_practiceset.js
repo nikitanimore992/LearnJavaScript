@@ -31,3 +31,22 @@ const canDrive = (age)=>{
     runAgain = confirm("Do you want to re-check age again")
 }
 
+// practice Q3
+let rnAgain = true;
+const canDrivee = (ag)=>{
+    return ag>=18?true:false
+}
+while(rnAgain){
+    let ag = prompt("Enter your age = ")
+    ag = Number.parseInt(ag);
+    if(age<0){
+        console.error("please enter a valid age ")
+        break;
+    }
+if(canDrivee(ag)){
+    alert("yes! , your can drive")
+}else{
+    alert("No, you cannot drive")
+}
+runAgain = confirm("Do you want to re-check age again")
+}
